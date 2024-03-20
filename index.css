@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(184, 241, 243);
+}
+
+#canvas {
+    border: thick inset rgb(255, 179, 0);
+    padding: 20px;
+    margin: 20px;
+}
